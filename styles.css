@@ -10,7 +10,7 @@
 h2 {
     color: #555555;
     font-weight: 700;
-    font-size: 40px;
+    font-size: 50px;
     text-align: center;
     margin-top: 10%;
 
@@ -19,7 +19,7 @@ h2 {
 main {
     width: 350px;
     height: 470px;
-    background: #4745b8;
+    background: #373595;
     border-radius: 20px;
     margin: 0 auto;
     padding: 44px 24px 23px;
@@ -43,6 +43,7 @@ input {
     font-size: 35px;
     border-radius: 20%;
     cursor: pointer;
+    color: white;
 }
 
 .firstLine:active, .secondLine:active, .thirdLine:active, .fourthLine:active {
